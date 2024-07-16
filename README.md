@@ -12,7 +12,7 @@ Este proyecto es una plantilla React que utiliza Vite para el desarrollo y AppSc
 **1. Clonación del repositorio:**
 
 ```bash
-   git clone https://github.com/BreisonMendezServi/Templete-vite-react-ts-appscript.git
+   git clone https://github.com/BreisonMendezServi/Template-vite-react-js-appscript.git
 ```
 
 **2. Instalar dependencias::**
